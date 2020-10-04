@@ -8,7 +8,7 @@ I was working on a project like this for my server side capstone project for my 
 - Python with Django for the back end. Both are open source and easy to read, learn, and understand.
 - PostgreSQL for the database because they are the leading and most popular open source database solution. 
 
-# Current Tech Stack
+# Current tech stack
 - React
 - Python using the Django framework
 - PostgreSQL
@@ -20,3 +20,7 @@ I was working on a project like this for my server side capstone project for my 
 - Team live chat
 - Private messages
 - Time management / tracking
+
+# Current development
+- Basic React page
+- Start user authentication
