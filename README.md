@@ -22,5 +22,5 @@ I was working on a project like this for my server side capstone project for my 
 - Time management / tracking
 
 # Current development
-- Basic React page
-- Start user authentication
+- Basic React skeleton
+- User authentication
