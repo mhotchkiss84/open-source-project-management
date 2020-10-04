@@ -8,8 +8,8 @@ I was working on a project like this for my server side capstone project for my 
 - Python with Django for the back end. Both are open source and easy to read, learn, and understand.
 - PostgreSQL for the database because they are the leading and most popular open source database solution. 
 
-# Current planning documentation (note these were made when making my capston with Entity SQL framework)
-(note these were made when making my capston with Entity SQL framework)<br/>
+# Current planning documentation
+Note these were made when making my capston with Entity SQL framework.<br/>
 [Current ERD (Entity Relationship Diagram)](https://drive.google.com/file/d/1gFTVGgXedhKAeoieMAr1buqYpD_dkQa_/view?usp=sharing) <br />
 [Mockup](https://drive.google.com/file/d/1Bgsz_MN2uL5L5baHSSGkJ-zrWxvLzQSu/view?usp=sharing)
 
