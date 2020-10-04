@@ -19,3 +19,4 @@ I was working on a project like this for my server side capstone project for my 
 - Sprint boards
 - Team live chat
 - Private messages
+- Time management / tracking
